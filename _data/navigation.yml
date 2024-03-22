@@ -1,24 +1,11 @@
 # main links links
 main:
-[comment]:  - title: "Publications"
-[comment]:    url: /publications/
-
-[comment]:  - title: "Talks"
-[comment]:    url: /talks/    
-
-[comment]:  - title: "Teaching"
-[comment]:    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
-        
-[comment]:  - title: "Blog Posts"
-[comment]:    url: /year-archive/
-    
+    url: /portfolio/        
+
   - title: "CV"
     url: /cv/
     
-[comment]:  - title: "Guide"
-[comment]:    url: /markdown/
-[//]: # (This may be the most platform-independent comment)
-[comment]: Comment text
+  - title: "Guide"
+    url: /markdown/
+
