@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+[comment]:  - title: "Publications"
+[comment]:    url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+[comment]:  - title: "Talks"
+[comment]:    url: /talks/    
+
+[comment]:  - title: "Teaching"
+[comment]:    url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+[comment]:  - title: "Blog Posts"
+[comment]:    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+[comment]:  - title: "Guide"
+[comment]:    url: /markdown/
+[//]: # (This may be the most platform-independent comment)
+[comment]: Comment text
