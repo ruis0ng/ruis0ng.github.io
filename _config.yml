@@ -21,10 +21,10 @@ repository               : "Raygun999/Raygun999.github.io,"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "frenchFries.png"
+  avatar           : "frenchFries.jpg"
   name             : "Rui Song"
   pronouns         : "he/his"  
-  bio              : "Master's student of Informatics,   @ University of Zurich."
+  bio              : "Master's student of Informatics   @University of Zurich."
   location         : "Zurich, Switzerland"
   university       : "University of Zurich"
   url              : # URL
