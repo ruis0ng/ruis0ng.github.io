@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rui Song"
-  pronouns         : # example: "he/his"  
-  bio              : "Hi, I am a Master's student of Information Systems at the University of Zurich."
+  pronouns         : "he/his"  
+  bio              : "Hello, I am currently a Master's student of Information Systems at the University of Zurich."
   location         : "Zurich, Switzerland"
   university       : "University of Zurich"
-  uri              : # URL
+  url              : # URL
   email            : "rui.song@uzh.ch" 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/rui-s-981422172/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
