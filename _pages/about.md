@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui's academic page"
+title: "Welcome to Rui's academic page"
 author_profile: true
 redirect_from: 
   - /about/
