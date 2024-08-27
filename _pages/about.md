@@ -18,6 +18,5 @@ I am currently a master's student at the University of Zurich, with a major in I
 With experience in diverse cultural and professional environments, I’ve developed a strong ability to adapt to different environments. My experience has ranged from designing user-centric applications to improving system efficiencies, always with a focus on creating meaningful solutions that address real-world needs.
 
 I am passionate about leveraging technology to solve real-world problems and enhance user experiences. My international experience has given me a global perspective, which I always bring to every project and opportunity. I am particularly interested in opportunities that allow me to work on innovative projects and collaborate with diverse teams.
-======
 
 This webpage is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
