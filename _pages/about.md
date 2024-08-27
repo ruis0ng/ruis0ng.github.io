@@ -13,7 +13,7 @@ I'm a Master's student of informatics from [Department of Informatics](https://w
 
 About me
 ======
-I am currently a master's student at the University of Zurich, with a major in Informatics. My journey from business to computer science has equipped me with a broader perspective on technology's technical and business aspects.
+I am currently a master's student at the University of Zurich, with a major in Information Systems and a minor in Informatics. My journey from business to computer science has equipped me with a broader perspective on technology's technical and business aspects.
 
 With experience in diverse cultural and professional environments, I’ve developed a strong ability to adapt to different environments. My experience has ranged from designing user-centric applications to improving system efficiencies, always with a focus on creating meaningful solutions that address real-world needs.
 
