@@ -21,4 +21,4 @@ With experience in diverse cultural and professional environments, I’ve develo
 
 I am passionate about leveraging technology to solve real-world problems and enhance user experiences. My international experience has given me a global perspective, which I always bring to every project and opportunity. I am particularly interested in opportunities that allow me to work on innovative projects and collaborate with diverse teams.
 
-This webpage is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+<!-- This webpage is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. -->
