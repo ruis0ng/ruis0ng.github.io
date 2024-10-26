@@ -12,7 +12,7 @@ title                    : "Rui Song / Personal Website"
 title_separator          : "-"
 name                     : &name "Rui Song"
 description              : &description "personal description"
-url                      : #
+url                      : https://github.com/ruis0ng
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruis0ng/ruis0ng.github.io,"
 
