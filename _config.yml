@@ -12,9 +12,9 @@ title                    : "Rui Song / Personal Website"
 title_separator          : "-"
 name                     : &name "Rui Song"
 description              : &description "personal description"
-url                      : https://github.com/ruis0ng
+url                      : https://github.com/ruis0ng # use the github url to avoid navigation problem
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruis0ng/ruis0ng.github.io,"
+repository               : "ruis0ng/ruis0ng.github.io," # use the repository name to avoid navigation problem
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
