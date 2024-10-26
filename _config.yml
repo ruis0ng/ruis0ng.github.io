@@ -12,9 +12,9 @@ title                    : "Rui Song / Personal Website"
 title_separator          : "-"
 name                     : &name "Rui Song"
 description              : &description "personal description"
-url                      : https://Raygun999.github.io
+url                      : https://ruis0ng.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Raygun999/Raygun999.github.io,"
+repository               : "ruis0ng/ruis0ng.github.io,"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Raygun999"
+  github           : "https://github.com/ruis0ng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : rui-s-981422172/
+  linkedin         : ruis0ng/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
