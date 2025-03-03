@@ -24,8 +24,9 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, HTML, CSS, JavaScript, JAVA, C#, SQL 
-* Tools: Tableau, RapidMiner, Microsoft Office, Overleaf & LaTex, Wireshark
+* Programming Languages: Python, HTML, CSS, JavaScript, JAVA, C#, SQL, Vue.js, SAP ABAP
+* Tools: Tableau, RapidMiner, Microsoft Office, Overleaf & LaTex, Wireshark, Microsoft  Dynamics 365, SAP BusinessByDesign, Ngrok, Docker 
+
 * Soft skills: 
   * Good Communication and Collaboration skills in group work and diversity, 
   * Adaptability to new, diverse and changing environments.
@@ -33,6 +34,16 @@ Skills
 
 Projects
 ======
+* AI-powered Support Agent for Employees at the Immigration Office
+  * Developed an AI-driven support system to assist immigration office employees in managing and retrieving application-related data efficiently in a team. 
+  * The project involved digitizing paper-based documents using OCR (Optical Character Recognition), storing them in a structured database, and enabling intelligent document search and question-answering using Retrieval-Augmented Generation (RAG).
+  * Implemented Natural Language Processing (NLP) techniques and Large Language Models (LLMs) to generate summaries and improve workflow automation. 
+  * Tech stack: Python, FastAPI, Vue.js, OpenAI API, PostgreSQL, Tesseract OCR, Milvus.
+* FocusBloom – A Visual Focus Tracker for programmer
+  * Developed a cross-platform app using Vue.js and Electron to visualize coding focus through dynamic flower animations.
+  * Tracks task switching and concentration time, providing intuitive feedback.
+  * Evaluated effectiveness through user studies and data analysis.
+  * Tech stack: Vue.js and Electron
 * Website Accessibility Analysis and Improvement
   * Evaluated and improved website accessibility with a team. 
   * Utilized JavaScript and JAWS to enhance screen reader support and keyboard navigation.
