@@ -24,8 +24,16 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, HTML, CSS, JavaScript, JAVA, C#, SQL, Vue.js, SAP ABAP
-* Tools: Tableau, RapidMiner, Microsoft Office, Overleaf & LaTex, Wireshark, Microsoft  Dynamics 365, SAP BusinessByDesign, Ngrok, Docker 
+
+* Programming & Development
+  * Python, JavaScript, SQL, SAP ABAP, HTML, CSS
+  * Experienced in full-stack development using modern framework like Next.js & vue.js (frontend) and FastAPI (backend).
+
+* Tools & Platforms
+  * Docker, Ngrok, Wireshark, Tableau, RapidMiner, SAP BusinessByDesign, Microsoft Dynamics 365, AWS, terraform, DynamoDB, etc.
+
+* Documentation & Productivity
+  * Overleaf & LaTeX, Microsoft Office
 
 * Soft skills: 
   * Good Communication and Collaboration skills in group work and diversity, 
@@ -43,11 +51,11 @@ Projects
   * Developed a cross-platform app using Vue.js and Electron to visualize coding focus through dynamic flower animations.
   * Tracks task switching and concentration time, providing intuitive feedback.
   * Evaluated effectiveness through user studies and data analysis.
-  * Tech stack: Vue.js and Electron
+  * Tech stack: Vue.js and Electron.
 * Website Accessibility Analysis and Improvement
   * Evaluated and improved website accessibility with a team. 
   * Utilized JavaScript and JAWS to enhance screen reader support and keyboard navigation.
-  * Documented the issues and implemented fixes
+  * Documented the issues and implemented fixes.
 * Human-Computer Interaction Project
   * Designed and developed a prototype app for horse owners to find veterinary services.
   * Conducted user research, Figma design and implementation, and usability testing in a team.  
