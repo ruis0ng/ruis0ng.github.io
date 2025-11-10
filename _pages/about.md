@@ -14,7 +14,7 @@ About me
 ======
 I started my academic journey in business, but over time I became more interested in how technology actually works and how it shapes people’s experiences. This curiosity led me to shift from business to informatics, and now my focus lies in building and understanding interactive systems that connect technical development with human needs.
 
-I enjoy learning new technologies and experimenting with them to create practical, human-centered applications. Through my studies and projects, I’ve worked on AI-driven systems, voice interaction tools, and accessibility-focused web applications. Each of these experiences has deepened my belief that technology should be understandable, inclusive, and beneficial to real people—not just efficient or data-driven.
+I enjoy learning new technologies and experimenting with them to create practical, human-centered applications. Most of my work involves full-stack web development, where I design and implement systems that integrate both frontend and backend components—often enhanced by AI features. Through my studies and projects, I’ve developed AI-driven systems, voice interaction tools, and accessibility-focused web applications. These experiences have deepened my belief that technology should be understandable, inclusive, and beneficial to real people—not just efficient or data-driven.
 
 Having studied and worked in international environments, I’ve learned to adapt quickly and collaborate across cultures and disciplines. I see this adaptability as one of my core strengths—it allows me to bridge perspectives between design, technology, and users from diverse backgrounds.
 
