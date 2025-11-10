@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-*  Centre for International Education, Northern Arizona University — Student Assistant Oct 2019 – May 2020
+* Centre for International Education, Northern Arizona University — Student Assistant Oct 2019 – May 2020
   * Provided administrative support for the Department of International Student and Scholar Services (ISSS).
   * Managed visitor check-in, appointments, and student electronic records using Sunapsis and NAU PeopleSoft systems.
   * Coordinated ISSS activities and communications using Microsoft Outlook.
@@ -64,7 +64,7 @@ Projects
   * Implemented version control and automated packaging with GitHub Actions, ensuring compatibility across Windows and macOS.  
   * Conducted a within-subject user study (n=16) to evaluate usability and impact on self-awareness of focus, receiving positive feedback.  
 
-* [**Website Accessibility Analysis and Improvement**](https://ruis0ng.github.io/uzh-web-accessibility/)  
+* [**Website Accessibility Analysis and Improvement**](https://github.com/ruis0ng/uzh-web-accessibility/)  
   * Collaborated on improving web accessibility by enhancing screen reader support and keyboard navigation using JavaScript and JAWS.  
   * Applied ARIA labels and accessibility best practices to optimize user experience for visually and hearing-impaired users.  
   * Documented usability issues and implemented corresponding fixes, strengthening inclusive design awareness.  
