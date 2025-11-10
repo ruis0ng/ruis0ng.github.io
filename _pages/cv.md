@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * M.Sc. in Informatics (Major: Information Systems), University of Zurich, 2026 (expected)

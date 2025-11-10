@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a Master’s student and HCI researcher at thefrom [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/cmsssl/en.html/), majoring in Information Systems.
-[Email](mailto:rui.song@uzh.ch)                      
+I’m a Master’s student at the [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich](https://www.uzh.ch/cmsssl/en.html/), majoring in Information Systems.
+<!-- [Email](mailto:rui.song@uzh.ch)                       -->
 
 
 About me
